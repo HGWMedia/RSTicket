@@ -1,4 +1,4 @@
 RSTicket
 ========
 
-Mobile Applications
+Ticketing System
